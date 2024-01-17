@@ -4,7 +4,7 @@ Simple script for extracting publication date from webpages.
 Takes csv file input, where first column contains URL links to webpages.
 Outputs `output.csv` file, which is the input file with an added column of publication date.
 
-This script uses the [htmldate package](https://htmldate.readthedocs.io/en/latest/index.html)https://htmldate.readthedocs.io/en/latest/index.html.
+This script uses the [htmldate package](https://htmldate.readthedocs.io/en/latest/index.html).
 
 ## Usage
 
