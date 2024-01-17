@@ -15,4 +15,5 @@ To use script, clone repo then make sure requirements are installed.
 `pip install -r requirements.txt`
 
 Run script file on csv file:
+
 `python extract_publication_date.py <csv_input>`
