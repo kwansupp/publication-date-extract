@@ -10,6 +10,7 @@ This script uses the [htmldate package](https://htmldate.readthedocs.io/en/lates
 
 To use script, clone repo then make sure requirements are installed.
 `git clone https://github.com/kwansupp/publication-date-extract.git`
+
 `pip install -r requirements.txt`
 
 Run script file on csv file:
